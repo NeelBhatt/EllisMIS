@@ -1,0 +1,5 @@
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\EllisMIS\bin\Debug\EllisMIS.dll
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\EllisMIS\bin\Debug\EllisMIS.pdb
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\EllisMIS\obj\Debug\EllisMIS.csprojResolveAssemblyReference.cache
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\EllisMIS\obj\Debug\EllisMIS.dll
+C:\Users\neelrb\Documents\MicrosoftSpeechToTextExample\EllisMIS\obj\Debug\EllisMIS.pdb
